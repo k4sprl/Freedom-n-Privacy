@@ -1,8 +1,8 @@
-# Freedom n' Privacy
+## Freedom n' Privacy
 
 G'day mate! Freedom and privacy, please.
 
-*A curated collection of recommended tools, software, and resources **that respect** **<ins>YOUR</ins>** freedom and privacy.*
+A curated collection of recommended tools, software, and resources **that respect** **YOUR** freedom and privacy.
 
 ---
 
@@ -31,15 +31,16 @@ G'day mate! Freedom and privacy, please.
 <details>
 <summary>🖥 Desktop Browser</summary>
 
-- [LibreWolf](https://librewolf.net)
 - [Mullvad Browser](https://mullvad.net/browser)
+- [Waterfox](https://www.waterfox.com)
 
 </details>
 
 <details>
 <summary>📱 Mobile Browser</summary>
 
-- [IceRaven](https://github.com/fork-maintainers/iceraven-browser)
+- [Mullvad Browser (mobile)](https://mullvad.net/browser)
+- [Waterfox](https://www.waterfox.com)
 - [WebWire](https://github.com/WebWire-Network/webwire)
 
 </details>
@@ -63,8 +64,6 @@ G'day mate! Freedom and privacy, please.
 <summary>🗺 Maps</summary>
 
 - [CoMaps](https://www.comaps.app)
-</details>
-
 </details>
 
 ---
