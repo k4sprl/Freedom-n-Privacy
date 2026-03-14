@@ -51,7 +51,7 @@ A curated collection of recommended tools, software, websites and more! **Which 
 ## Browser Extensions
 
 <details>
-<summary>🔐 Browser Extension</summary>
+<summary>🔐 Browser Extensions</summary>
 
 - [uBlock](https://github.com/gorhill/uBlock)
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
