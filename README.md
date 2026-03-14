@@ -2,7 +2,7 @@
 
 G'day mate! Freedom and privacy, please.
 
-A curated collection of recommended tools, software, and resources **that respect** **YOUR** freedom and privacy.
+A curated collection of recommended tools, software, websites and more! **Which respect** **YOUR** freedom and privacy.
 
 ---
 
@@ -29,19 +29,36 @@ A curated collection of recommended tools, software, and resources **that respec
 ## Browser
 
 <details>
-<summary>🖥 Desktop Browser</summary>
+<summary>🖥️ Desktop Browser</summary>
 
+- [Tor Browser](https://www.torproject.org)
 - [Mullvad Browser](https://mullvad.net/browser)
-- [Waterfox](https://www.waterfox.com)
+- [LibreWolf](https://librewolf.net)
 
 </details>
 
 <details>
 <summary>📱 Mobile Browser</summary>
 
-- [Mullvad Browser (mobile)](https://mullvad.net/browser)
-- [Waterfox](https://www.waterfox.com)
-- [WebWire](https://github.com/WebWire-Network/webwire)
+- [Tor Browser](https://www.torproject.org)
+- [WebLibre](https://github.com/FaFre/WebLibre)
+- [IceRaven](https://github.com/fork-maintainers/iceraven-browser)
+
+</details>
+
+---
+
+## Browser Extensions
+
+<details>
+<summary>🔐 Browser Extension</summary>
+
+- [uBlock](https://github.com/gorhill/uBlock)
+- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
+- [IndieWiki](https://getindie.wiki)
+- [SponsorBlock](https://sponsor.ajay.app)
+- [DeArrow](https://dearrow.ajay.app)
+- [DarkReader](https://darkreader.org)
 
 </details>
 
@@ -61,17 +78,17 @@ A curated collection of recommended tools, software, and resources **that respec
 ## Maps
 
 <details>
-<summary>🗺 Maps</summary>
+<summary>🗺️ Maps</summary>
 
 - [CoMaps](https://www.comaps.app)
 </details>
 
 ---
 
-## Web Downloader
+## Media Downloader
 
 <details>
-<summary>💾 Web Downloader</summary>
+<summary>💾 Media downloader</summary>
 
 - [Cobalt Tools](https://cobalt.tools)
 </details>
